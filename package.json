@@ -1,1 +1,11 @@
-
+{
+  "name": "dice-roller-site",
+  "version": "1.0.0",
+  "description": "A simple dice roller website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "author": "",
+  "license": "MIT"
+}
